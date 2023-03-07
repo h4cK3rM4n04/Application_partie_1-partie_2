@@ -1,0 +1,5 @@
+Le chiffre (True) est un booléens il prend comme valeur 1. Voici les (True) premier de la suite Fibonacci: True !!!
+Le chiffre (False) est un booléens il prend comme valeur 0. Voici les (False) premier de la suite Fibonacci: False !!!
+Le chiffre (10.2) est invalide elle est de la <class 'float'> !!!
+Le chiffre (h4cK3rM4n04) est invalide elle est de la <class 'str'> !!!
+Les 10 nombres de la suite Fibonacci sont:	[0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
